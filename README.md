@@ -17,3 +17,7 @@ RUNNER(ios): https://drive.google.com/file/d/1xHlZs7_KNArq9veXnIr5HBTuyKZx-ppY/v
 - Tap the 'apk' file for android and 'runner' file for ios.
 - Click 'install' and then 'install anyway'.
 - Click 'Done' or 'Open' to proceed.
+
+## Screenshots
+- Uses Codemagic CI/CD
+![](screenshots/cicd.png)
