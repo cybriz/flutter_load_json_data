@@ -3,14 +3,17 @@
 A new Flutter project.
 
 ## Getting Started
+- git clone 'https://github.com/cybriz/flutter_load_json_data/tree/master' flutter_todo_list
+- flutter create --androidx .If android or ios folders aren't present.
+- flutter packages get or flutter pub get
+- flutter run
 
-This project is a starting point for a Flutter application.
+## Install demo app into your own phone
+APK(android): https://drive.google.com/file/d/1DgGdxzwVNmfIT6Qp3-hr3ZTFxcKgAXud/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+RUNNER(ios): https://drive.google.com/file/d/1xHlZs7_KNArq9veXnIr5HBTuyKZx-ppY/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Download the apk using phone default Package Installer.
+- Tap the 'apk' file for android and 'runner' file for ios.
+- Click 'install' and then 'install anyway'.
+- Click 'Done' or 'Open' to proceed.
